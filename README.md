@@ -49,6 +49,6 @@ JavaScript   6 hrs 3 mins    ███████████░░░░░░
 <!--END_SECTION:waka-->
 
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arjunvkv&show_icons=true&theme=gotham" alt="arjunvkv" />
 
 
