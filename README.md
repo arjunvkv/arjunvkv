@@ -44,7 +44,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 JSX          7 hrs 15 mins   █████████████▒░░░░░░░░░░░   53.25 % 
 JavaScript   6 hrs 3 mins    ███████████░░░░░░░░░░░░░░   44.49 % 
-MDX          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+
 ```
 <!--END_SECTION:waka-->
 
