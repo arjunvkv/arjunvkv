@@ -18,6 +18,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 - 🧧 check my portfolio https://portfolio-9e9df.web.app/.
 - 💻 Have a look at my Movie-Database project done with React js https://mvdb-6e015.web.app
+- 🔖 check out my <a href="https://github.com/arjunvkv/arjunvkv/blob/main/Arjun-Resume%20(1).pdf"> {resume}
+</a>
 
 **languages and tools:**  
 
