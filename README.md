@@ -1,5 +1,6 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" height="350px">
 
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/arjun-sasi-675077215/">
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -15,6 +16,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:arjun.vkv.97@gmail) :)
 - 💬 ask me about anything, i am happy to help;
+- 🧧 check my portfolio https://portfolio-9e9df.web.app/.
+- 💻 Have a look at my Movie-Database project done with React js https://mvdb-6e015.web.app
 
 **languages and tools:**  
 
