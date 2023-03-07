@@ -15,11 +15,11 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="350" height="350" />
   
-- 💼 any freelance work? do reach, [email](mailto:arjun.vkv.97@gmail) :)
-- 💬 ask me about anything, i am happy to help;
-- 🧧 check my portfolio [Portfolio](https://portfolio-9e9df.web.app/).
-- 💻 Have a look at my Movie-Database project done with React js [MVDB](https://mvdb-6e015.web.app).
-- 🔖 check out my <a href="https://github.com/arjunvkv/arjunvkv/blob/main/Arjun's%20Resume%204.pdf"> Resume
+- 💼 Any freelance work? do reach, [Email](mailto:arjun.vkv.97@gmail) :)
+- 💬 Ask me about anything, i am happy to help;
+- 🧧 Check my portfolio [Portfolio](https://portfolio-9e9df.web.app/).
+- 💻 Have a look at my Movie Database project done with React [MVDB](https://mvdb-6e015.web.app).
+- 🔖 Check out my <a href="https://github.com/arjunvkv/arjunvkv/blob/main/Arjun's%20Resume%204.pdf"> Resume
 </a>
 
 **languages and tools:**  
