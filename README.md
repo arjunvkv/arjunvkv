@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" height="350px">
+<!-- <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" height="350px"> -->
+<img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif](https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" height="350px">
+
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/arjun-sasi-675077215/">
@@ -35,8 +37,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          7 hrs 15 mins   █████████████▒░░░░░░░░░░░   53.25 % 
-JavaScript   6 hrs 3 mins    ███████████░░░░░░░░░░░░░░   44.49 % 
+React        7 hrs 15 mins   █████████████████░░░░░░░░   70.25 % 
+JavaScript   6 hrs 3 mins    ████████████████████░░░░░   80.49 % 
 
 ```
 <!--END_SECTION:waka-->
