@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" height="350px">
 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/arjun-sasi-675077215/">
   <img align="left" alt="Arjun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -9,9 +9,9 @@
 [![GitHub Arjun](https://img.shields.io/github/followers/arjunvkv?label=follow&style=social)](https://github.com/arjunvkv)
 <br />
 
-hi, i'm [Arjun sasi](https://portfolio-9e9df.web.app), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Arjun Sasi](https://portfolio-9e9df.web.app), a passionate self-taught full-stack web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the products I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community, and I love how collaboration and knowledge sharing happens through open-source.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="350" height="350" />
   
