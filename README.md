@@ -1,5 +1,3 @@
-![Arjun sasi](#)
-
 ## Info
 
 Hi there, I'm Arjun, a software engineer.
@@ -8,12 +6,11 @@ Hi there, I'm Arjun, a software engineer.
 - 💬 Ask me about anything, i am happy to help
 - 🎏: I'm currently learning : Django
 - Have a look at my 🎟️ Movie Database project done with React [MVDB](https://mvdb-6e015.web.app).
-- Check out my [Resume](https://mvdb-6e015.web.app).
+- Check out my [Resume](https://github.com/arjunvkv/arjunvkv/blob/main/Arjun.pdf).
+<img alt="Arjun sasi" src="https://github.com/arjunvkv/arjunvkv/blob/main/cover.jpg" width="400" height="400">
 
-</details>
 
-
-Where to find me
+<b>Where to find me </b>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/arjunvkv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arjun-sasi/)
