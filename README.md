@@ -7,7 +7,7 @@ Hi there, I'm Arjun, a software engineer.
 - 🎏: I'm currently learning : Django
 - Have a look at my 🎟️ Movie Database project done with React [MVDB](https://mvdb-6e015.web.app).
 - Check out my [Resume](https://github.com/arjunvkv/arjunvkv/blob/main/Arjun.pdf).
-<img alt="Arjun sasi" src="https://github.com/arjunvkv/arjunvkv/blob/main/cover.jpg" width="400" height="400">
+<!-- <img alt="Arjun sasi" src="https://github.com/arjunvkv/arjunvkv/blob/main/cover.jpg" width="400" height="400"> -->
 
 
 <b>Where to find me </b>
